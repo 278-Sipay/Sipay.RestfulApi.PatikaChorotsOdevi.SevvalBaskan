@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sipay.RestfulApi", "Sipay.RestfulApi\Sipay.RestfulApi.csproj", "{496AC8C7-3A46-431C-9EB6-FE6940D8ACD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{496AC8C7-3A46-431C-9EB6-FE6940D8ACD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{496AC8C7-3A46-431C-9EB6-FE6940D8ACD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{496AC8C7-3A46-431C-9EB6-FE6940D8ACD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{496AC8C7-3A46-431C-9EB6-FE6940D8ACD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03CBC02D-A367-4361-97E2-14CB1DB860C3}
+	EndGlobalSection
+EndGlobal
